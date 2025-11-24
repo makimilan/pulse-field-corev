@@ -55,8 +55,8 @@ The "Crossover Point" where O(N) beats O(N^2) optimized kernels happens around 2
 We encourage you to verify our claims.
 
 ```bash
-git clone https://github.com/makimilan/pulse-field-core.git
-cd pulse-field-core
+git clone https://github.com/makimilan/pulse-field-corev.git
+cd pulse-field-corev
 pip install -r requirements.txt
 
 # Run the full integrity and benchmark suite
